@@ -1,0 +1,482 @@
+[
+  {
+    "pin": 14847,
+    "latitude": -7.0882687,
+    "longitude": 111.0135484,
+    "satker_kode": 803,
+	"expired": false,
+	"note": "Bu Retno"
+  },
+  {
+    "pin": 14848,
+    "latitude": -7.0882687,
+    "longitude": 111.0135484,
+    "satker_kode": 803,
+	"expired": false,
+	"note": "Pak Rubadi"
+  },
+  {
+    "pin": 33440101,
+    "latitude": -7.0882687,
+    "longitude": 111.0135484,
+    "satker_kode": 803,
+	"expired": false,
+	"note": "Yogi Korwil"
+  },
+  {
+    "pin": 14849,
+    "latitude": -7.0882687,
+    "longitude": 111.0135484,
+    "satker_kode": 803,
+	"expired": false,
+	"note": "KOORDINATOR WILAYAH BIDANG PENDIDIKAN KEC. TAWANGHARJO"
+  },
+  {
+    "pin": 14853,
+    "latitude": -7.0811531,
+    "longitude": 111.101786,
+    "satker_kode": 750,
+	"expired": false,
+	"note": "Bu Sri Pur"
+  },
+  {
+    "pin": 11734,
+    "latitude": -7.0847057, 
+    "longitude": 111.0897741,
+    "satker_kode": 118,
+	"expired": false,
+	"note": "Mbak Ana Ngantru"
+  },
+  {
+    "pin": 2020120407,
+    "latitude": -6.970908,
+    "longitude": 111.0482001,
+    "satker_kode": 831,
+	"expired": false,
+	"note": "Widya SDN KEMADOHBATUR 3"
+  },
+  {
+    "pin": 2021022953,
+    "latitude": -7.049655, 
+    "longitude": 111.0212317,
+    "satker_kode": 828,
+	"expired": false,
+	"note": "Mbak Dian SD N GODAN 3"
+  },
+  {
+    "pin": 33441901,
+    "latitude": -7.083131,
+    "longitude": 110.995548,
+    "satker_kode": 750,
+	"expired": false,
+	"note": "wafa SDN POJOK 3"
+  },
+  {
+    "pin": 202121300,
+    "latitude": -7.069789,
+    "longitude": 110.981545,
+    "satker_kode": 818,
+	"expired": false,
+	"note": "Mas Ali SDN PLOSOREJO 3"
+  },
+  {
+    "pin": 17861,
+    "latitude": -7.069789,
+    "longitude": 110.981545,
+    "satker_kode": 818,
+	"expired": false,
+	"note": "Bu Rahma SDN PLOSOREJO 3"
+  },
+  {
+    "pin": 17918,
+    "latitude": -7.069789,
+    "longitude": 110.981545,
+    "satker_kode": 818,
+	"expired": false,
+	"note": "Siti Mukaromah SDN PLOSOREJO 3"
+  },
+  {
+    "pin": 202121283,
+    "latitude": -7.069789,
+    "longitude": 110.981545,
+    "satker_kode": 818,
+	"expired": false,
+	"note": "Murtingsih SDN PLOSOREJO 3"
+  },
+  {
+    "pin": 202121289,
+    "latitude": -7.069789,
+    "longitude": 110.981545,
+    "satker_kode": 818,
+	"expired": false,
+	"note": "Munawaroh SDN PLOSOREJO 3"
+  },
+  {
+    "pin": 2021023602,
+    "latitude": -7.069789,
+    "longitude": 110.981545,
+    "satker_kode": 818,
+	"expired": false,
+	"note": "Lupita SDN PLOSOREJO 3"
+  },
+  {
+    "pin": 2021023603,
+    "latitude": -7.069789,
+    "longitude": 110.981545,
+    "satker_kode": 818,
+	"expired": false,
+	"note": "Erin Dwi Susanti SDN PLOSOREJO 3"
+  },
+  {
+    "pin": 33442806,
+    "latitude": -6.982323,
+    "longitude": 111.043631,
+    "satker_kode": 1725,
+	"expired": false,
+	"note": "MARIA TK BATUR"
+  },
+  {
+    "pin": 2021024368,
+    "latitude": -6.9709749,
+    "longitude": 111.0483043,
+    "satker_kode": 1743,
+	"expired": false,
+	"note": "ETIK TK BATUR"
+  },
+  {
+    "pin": 33442904,
+    "latitude": -6.9709749,
+    "longitude": 111.0483043,
+    "satker_kode": 1743,
+	"expired": false,
+	"note": "SULARSIH TK BATUR"
+  },
+  {
+    "pin": 33442105,
+    "latitude": -7.0642,
+    "longitude": 111.016092,
+    "satker_kode": 1736,
+	"expired": false,
+	"note": "NUR ROCHMATUN TK TARUB 2"
+  },
+  {
+    "pin": 33441804,
+    "latitude": -7.061953,
+    "longitude": 111.0088083,
+    "satker_kode": 1718,
+	"expired": false,
+	"note": "BU IIM TK POJOK"
+  },
+  {
+    "pin": 3344306,
+    "latitude": -7.0877183,
+    "longitude": 111.0088083,
+    "satker_kode": 1738,
+	"expired": false,
+	"note": "PUPUT TK TAWANG"
+  },
+  {
+    "pin": 3344305,
+    "latitude": -7.0877183,
+    "longitude": 111.0088083,
+    "satker_kode": 1738,
+	"expired": false,
+	"note": "SITI ZAENAH TK TAWANG"
+  },
+  {
+    "pin": 17799,
+    "latitude": -7.095609,
+    "longitude": 110.9596962,
+    "satker_kode": 812,
+	"expired": false,
+	"note": "lokasi kerja"
+  },
+  {
+    "pin": 2021022996,
+    "latitude": -7.1379262,
+    "longitude": 110.9253696,
+    "satker_kode": 408,
+	"expired": false,
+	"note": "Riris Tambirejo 1"
+  },
+  {
+    "pin": 16645,
+    "latitude": -7.0158478,
+    "longitude": 110.8618986,
+    "satker_kode": 574,
+	"expired": false,
+	"note": "Endang Supriyanti Selojari"
+  },
+  {
+    "pin": 14855,
+    "latitude": -7.0808324,
+    "longitude": 111.0850958,
+    "satker_kode": 1664,
+	"expired": false,
+	"note": "lokasi kerja"
+  },
+  {
+    "pin": 13787,
+    "latitude": -7.0757777,
+    "longitude": 111.0974166,
+    "satker_kode": 1230,
+	"expired": false,
+	"note": "lokasi kerja"
+  },
+  {
+    "pin": 2021022429,
+    "latitude": -7.1659333,
+    "longitude": 111.2224383,
+    "satker_kode": 727,
+	"expired": false,
+	"note": "SDN TAHUNAN 2"
+  },
+  {
+    "pin": 15236,
+    "latitude": -7.1659333,
+    "longitude": 111.2224383,
+    "satker_kode": 727,
+	"expired": false,
+	"note": "SDN TAHUNAN 2"
+  },
+  {
+    "pin": 15238,
+    "latitude": -7.1659333,
+    "longitude": 111.2224383,
+    "satker_kode": 727,
+	"expired": false,
+	"note": "SDN TAHUNAN 2"
+  },
+  {
+    "pin": 202121033,
+    "latitude": -7.1659333,
+    "longitude": 111.2224383,
+    "satker_kode": 727,
+	"expired": false,
+	"note": "SDN TAHUNAN 2"
+  },
+  {
+    "pin": 33422808,
+    "latitude": -7.1659333,
+    "longitude": 111.2224383,
+    "satker_kode": 727,
+	"expired": false,
+	"note": "SDN TAHUNAN 2"
+  },
+  {
+    "pin": 14925,
+    "latitude": -7.070884,
+    "longitude": 110.9031421,
+    "satker_kode": 553,
+	"expired": false,
+	"note": "lokasi kerja"
+  },
+  {
+    "pin": 13569,
+    "latitude": -7.221359,
+    "longitude": 111.172248,
+    "satker_kode": 1226,
+	"expired": false,
+	"note": "lokasi kerja"
+  },
+  {
+    "pin": 2020120388,
+    "latitude": -7.115136666,
+    "longitude": 110.935193333,
+    "satker_kode": 344,
+	"expired": false,
+	"note": "lokasi kerja"
+  },
+  {
+    "pin": 33014704,
+    "latitude": -7.0757777, 
+    "longitude": 111.0974166,
+    "satker_kode": 1230,
+	"expired": false,
+	"note": "lokasi kerja"
+  },
+  {
+    "pin": 2021022960,
+    "latitude": -7.0260958, 
+    "longitude": 111.0302834,
+    "satker_kode": 826,
+	"expired": false,
+	"note": "lokasi kerja"
+  },
+  {
+    "pin": 33433903,
+    "latitude": -6.990687, 
+    "longitude": 111.0685384,
+    "satker_kode": 788,
+	"expired": false,
+	"note": "lokasi kerja"
+  },
+  {
+    "pin": 18384,
+    "latitude": -6.990687, 
+    "longitude": 111.0685384,
+    "satker_kode": 788,
+	"expired": false,
+	"note": "lokasi kerja"
+  },
+  {
+    "pin": 33352108,
+    "latitude": -7.1242358, 
+    "longitude": 110.8784663,
+    "satker_kode": 395,
+	"expired": false,
+	"note": "SDN SUGIHAN 2"
+  },
+  {
+    "pin": 18471,
+    "latitude": -7.07799453, 
+    "longitude": 111.04464353,
+    "satker_kode": 779,
+	"expired": false,
+	"note": "mbak rini sambirejo 4"
+  },
+  {
+    "pin": 202121342,
+    "latitude": -7.07799453, 
+    "longitude": 111.04464353,
+    "satker_kode": 779,
+	"expired": false,
+	"note": "kabib sambirejo 4"
+  },
+  {
+    "pin": 202121297,
+    "latitude": -7.0908831, 
+    "longitude": 111.0056911,
+    "satker_kode": 807,
+	"expired": false,
+	"note": "Didiek Selo 3"
+  },
+  {
+    "pin": 33413704,
+    "latitude": -7.131195, 
+    "longitude": 110.998845,
+    "satker_kode": 676,
+	"expired": false,
+	"note": "Bojone mas Didiek Selo 3"
+  },
+  {
+    "pin": 202121005,
+    "latitude": -6.9877874, 
+    "longitude": 110.8721702,
+    "satker_kode": 542,
+	"expired": false,
+	"note": "Bojone Fausi SMA"
+  },
+  {
+    "pin": 33381303,
+    "latitude": -6.9877874, 
+    "longitude": 110.8721702,
+    "satker_kode": 542,
+	"expired": false,
+	"note": "Adine Fausi SMA"
+  },
+  {
+    "pin": 2021023482,
+    "latitude": -7.087923, 
+    "longitude": 110.918022,
+    "satker_kode": 1167,
+	"expired": false,
+	"note": "Fausiningrum SMA"
+  },
+  {
+    "pin": 18331,
+    "latitude": -7.1379262, 
+    "longitude": 110.9253696,
+    "satker_kode": 408,
+	"expired": false,
+	"note": "grandong"
+  },
+  {
+    "pin": 16948,
+    "latitude": -7.02902592, 
+    "longitude": 111.2086182,
+    "satker_kode": 574,
+	"expired": false,
+	"note": "ANDRY WAHYULIANTO belor 2 tgl 12"
+  },
+  {
+    "pin": 33440305,
+    "latitude": -7.0939632, 
+    "longitude": 111.0002777,
+    "satker_kode": 805,
+	"expired": false,
+	"note": "BUDI SELO 1"
+  }, 
+  {
+    "pin": 18377,
+    "latitude": -6.990687, 
+    "longitude": 111.0685384,
+    "satker_kode": 788,
+	"expired": false,
+	"note": "SUWOTO DOKORO"
+  },
+  {
+    "pin": 2021021401,
+    "latitude": -7.0808324, 
+    "longitude": 111.0850958,
+    "satker_kode": 1664,
+	"expired": false,
+	"note": "ACIK TK NEGERI PEMBINA WIROSARI"
+  },
+  {
+    "pin": 33381307,
+    "latitude": -6.9877874, 
+    "longitude": 110.8721702,
+    "satker_kode": 542,
+	"expired": false,
+	"note": "HUSNITA TEGALSUMUR 2"
+  },
+  {
+    "pin": 33442107,
+    "latitude": -7.069953, 
+    "longitude": 111.017656,
+    "satker_kode": 1737,
+	"expired": false,
+	"note": "RIFA MUSTIAH TK TARUB 3"
+  },
+  {
+    "pin": 33381403,
+    "latitude": -6.9877874, 
+    "longitude": 110.8721702,
+    "satker_kode": 542,
+	"expired": false,
+	"note": "endah TEGALSUMUR 2"
+  },
+  {
+    "pin": 2021022588,
+    "latitude": -7.0926913, 
+    "longitude": 110.7046535,
+    "satker_kode": 1042,
+	"expired": false,
+	"note": "DESI JEKETRO 1"
+  },
+  {
+    "pin": 33019007,
+    "latitude": -6.9734471, 
+    "longitude": 110.9195032,
+    "satker_kode": 1198,
+	"expired": false,
+	"note": "LUFITA SMP 5 Purwodadi"
+  },
+  {
+    "pin": 33019009,
+    "latitude": -6.9734471, 
+    "longitude": 110.9195032,
+    "satker_kode": 1198,
+	"expired": false,
+	"note": "DIYAH FITRIYANI SMP 5 Purwodadi"
+  },
+  {
+    "pin": 33019011,
+    "latitude": -6.9734471, 
+    "longitude": 110.9195032,
+    "satker_kode": 1198,
+	"expired": false,
+	"note": "NINA SMP 5 Purwodadi"
+  }
+]
